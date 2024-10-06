@@ -9,6 +9,19 @@ function Footer() {
             <img src="media/images/logo.svg" style={{ width: "50%" }} />
             <p>
               &copy; 2010 - 2024, Not Zerodha Broking Ltd. All rights reserved.
+             <br></br>
+
+<i class="fa-brands fa-facebook"></i>
+              <i class="fa-brands fa-youtube"></i>
+              <i class="fa-brands fa-square-instagram"></i>
+              <br />
+              <i class="fa-brands fa-linkedin"></i>
+              <i class="fa-brands fa-github"></i>
+              <i class="fa-brands fa-x-twitter"></i>
+            
+             
+              
+              
             </p>
           </div>
           <div className="col">
