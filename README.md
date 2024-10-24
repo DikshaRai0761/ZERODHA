@@ -30,5 +30,5 @@ This is a clone of the popular stock trading platform Zerodha built using the ME
 - **Bcrypt:** For hashing passwords.
 - **JWT:** For secure user authentication.
 
-  ## Screenshots
+
 
