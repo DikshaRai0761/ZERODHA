@@ -32,5 +32,3 @@ This is a clone of the popular stock trading platform Zerodha built using the ME
 
   ## Screenshots
 
-![Mockup](./Screenshot/mockup.png)
-_Mockup_
